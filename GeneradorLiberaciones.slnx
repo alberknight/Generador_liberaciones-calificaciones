@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GeneradorLiberaciones.Core/GeneradorLiberaciones.Core.csproj" />
+  <Project Path="GeneradorLiberaciones.Wpf/GeneradorLiberaciones.Wpf.csproj" Id="5301926b-dfdb-453f-9827-dd7a6c464a47" />
+</Solution>

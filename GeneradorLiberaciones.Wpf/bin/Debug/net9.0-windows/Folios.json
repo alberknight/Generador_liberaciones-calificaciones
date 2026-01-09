@@ -1,0 +1,8 @@
+{
+  "LastFolioLiberacion": 122,
+  "LastFolioCalificacion": 122,
+  "LastRunAt": "2026-01-07T21:32:06.2118878-06:00",
+  "LastExcelPath": "C:\\Users\\alber\\Downloads\\Archivos servicio\\Generador de liberacion y calificacion\\ENERO - JULIO 2025.xlsx",
+  "TemplateLiberacionPath": "C:\\Users\\alber\\source\\repos\\GeneradorLiberaciones\\GeneradorLiberaciones.Wpf\\bin\\Debug\\net9.0-windows\\Templates\\Liberacion.docx",
+  "TemplateCalificacionPath": "C:\\Users\\alber\\source\\repos\\GeneradorLiberaciones\\GeneradorLiberaciones.Wpf\\bin\\Debug\\net9.0-windows\\Templates\\Calificacion.docx"
+}

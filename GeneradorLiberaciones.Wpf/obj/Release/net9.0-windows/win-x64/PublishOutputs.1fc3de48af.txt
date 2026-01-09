@@ -1,0 +1,10 @@
+C:\Users\alber\OneDrive\Documentos\GeneradorPrograma\GeneradorLiberaciones.Wpf.pdb
+C:\Users\alber\OneDrive\Documentos\GeneradorPrograma\D3DCompiler_47_cor3.dll
+C:\Users\alber\OneDrive\Documentos\GeneradorPrograma\PenImc_cor3.dll
+C:\Users\alber\OneDrive\Documentos\GeneradorPrograma\PresentationNative_cor3.dll
+C:\Users\alber\OneDrive\Documentos\GeneradorPrograma\vcruntime140_cor3.dll
+C:\Users\alber\OneDrive\Documentos\GeneradorPrograma\wpfgfx_cor3.dll
+C:\Users\alber\OneDrive\Documentos\GeneradorPrograma\libHarfBuzzSharp.dll
+C:\Users\alber\OneDrive\Documentos\GeneradorPrograma\libSkiaSharp.dll
+C:\Users\alber\OneDrive\Documentos\GeneradorPrograma\GeneradorLiberaciones.Core.pdb
+C:\Users\alber\OneDrive\Documentos\GeneradorPrograma\GeneradorLiberaciones.Wpf.exe

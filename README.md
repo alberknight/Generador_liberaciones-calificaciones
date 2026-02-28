@@ -59,10 +59,10 @@ Crea tus documentos en Word utilizando los siguientes "placeholders" donde desee
 | `{{CALIFICACION_LETRA}}` | Promedio convertido a texto (ej: "NOVENTA Y CINCO") |
 
 
-## Plantilla para documento de liberacion
+# Plantilla para documento de liberacion
 ![Plantilla para documento de liberacion](assets/libplantilla.png)
 
-## Plantilla para documento de calificacion
+# Plantilla para documento de calificacion
 ![Plantilla para documento de calificacion](assets/calplantilla.png)
 
 ### 2. Configuración en la App

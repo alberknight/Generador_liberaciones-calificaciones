@@ -89,13 +89,4 @@ Si un registro no genera documento, el sistema creará un archivo `ErroresGenera
 - **`GeneradorLiberaciones.Wpf`**: Interfaz de usuario moderna y fluida que gestiona la configuración del usuario y la persistencia de datos en `Folios.json`.
 
 ---
-
-## Contribuciones
-
-Si deseas mejorar este proyecto o adaptarlo a los requerimientos de tu institución:
-1. Haz un Fork del repositorio.
-2. Crea una rama para tu mejora: `git checkout -b feature/NuevaValidacion`.
-3. Envía un Pull Request detallando los cambios.
-
----
 Desarrollado para optimizar los procesos administrativos educativos.

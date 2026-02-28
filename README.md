@@ -39,8 +39,8 @@ Este sistema elimina la carga administrativa de llenar manualmente **Cartas de L
 ### Estructura del Excel
 El sistema espera un archivo `.xlsx` con columnas específicas para funcionar correctamente.
 
-![Ejemplo del excel usado personalmente](assets/excel_format2.png)(assets/excel_format2.png)
-
+![Ejemplo del excel usado personalmente 1](assets/excel_format.png)
+![Ejemplo del excel usado personalmente 1](assets/excel_format2.png)
 ---
 
 ## Guía de Uso Rápido
@@ -58,8 +58,11 @@ Crea tus documentos en Word utilizando los siguientes "placeholders" donde desee
 | `{{FECHA_TERMINO}}` | Fecha de finalización del periodo |
 | `{{CALIFICACION_LETRA}}` | Promedio convertido a texto (ej: "NOVENTA Y CINCO") |
 
+
+## Plantilla para documento de liberacion
 ![Plantilla para documento de liberacion](assets/libplantilla.png)
 
+## Plantilla para documento de calificacion
 ![Plantilla para documento de calificacion](assets/calplantilla.png)
 
 ### 2. Configuración en la App

@@ -43,3 +43,4 @@ C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Wpf\bin\
 C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Wpf\bin\Debug\net9.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
 C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Wpf\bin\Debug\net9.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
 C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Wpf\bin\Debug\net9.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Wpf\obj\Debug\net9.0-windows\GeneradorLiberaciones.Wpf.sourcelink.json

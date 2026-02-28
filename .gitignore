@@ -1,0 +1,33 @@
+## Visual Studio
+.vs/
+[Bb]in/
+[Ob]j/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## .NET Core / .NET 9
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Archivos de Estado Local (Específicos de este proyecto)
+# Ignoramos Folios.json porque contiene rutas locales y folios de prueba del desarrollador
+Folios.json
+
+## Salidas de Generación (Específicos de este proyecto)
+# Carpetas de salida por defecto mencionadas en el código
+Salida/
+Resultados_Lib&Cali/
+
+## Logs de Visual Studio y Herramientas
+*.log
+*.tmp
+
+## Archivos de Usuario y SO
+.DS_Store
+Thumbs.db
+
+## Carpetas de publicación
+publish/

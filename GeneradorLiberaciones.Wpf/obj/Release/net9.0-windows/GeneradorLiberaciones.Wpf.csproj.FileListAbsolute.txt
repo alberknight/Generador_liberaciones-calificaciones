@@ -43,3 +43,4 @@ C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Wpf\obj\
 C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Wpf\obj\Release\net9.0-windows\GeneradorLiberaciones.Wpf.pdb
 C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Wpf\obj\Release\net9.0-windows\GeneradorLiberaciones.Wpf.genruntimeconfig.cache
 C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Wpf\obj\Release\net9.0-windows\ref\GeneradorLiberaciones.Wpf.dll
+C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Wpf\obj\Release\net9.0-windows\GeneradorLiberaciones.Wpf.sourcelink.json

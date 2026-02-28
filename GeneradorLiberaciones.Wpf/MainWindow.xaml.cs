@@ -26,7 +26,7 @@ namespace GeneradorLiberaciones.Wpf
 
             // La carpeta de salida ahora apunta a Documentos\GeneradorLiberaciones del usuario
             var documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            outputRoot = Path.Combine(documentsPath, "GeneradorLiberaciones");
+            outputRoot = Path.Combine(documentsPath, "Resultados_Lib&Cali");
             
             // El archivo de configuración de folios se guarda en la raíz de la aplicación
             foliosConfigPath = Path.Combine(baseDir, "Folios.json");

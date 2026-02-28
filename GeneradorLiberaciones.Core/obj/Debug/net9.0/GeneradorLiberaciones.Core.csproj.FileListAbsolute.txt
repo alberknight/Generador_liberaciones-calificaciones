@@ -10,3 +10,4 @@ C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Core\obj
 C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Core\obj\Debug\net9.0\refint\GeneradorLiberaciones.Core.dll
 C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Core\obj\Debug\net9.0\GeneradorLiberaciones.Core.pdb
 C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Core\obj\Debug\net9.0\ref\GeneradorLiberaciones.Core.dll
+C:\Users\alber\source\repos\GeneradorLiberaciones\GeneradorLiberaciones.Core\obj\Debug\net9.0\GeneradorLiberaciones.Core.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeneradorLiberaciones.Wpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7240cd7dde5d414f668a8fa4787cf02ca9760ef2")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeneradorLiberaciones.Wpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeneradorLiberaciones.Wpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
